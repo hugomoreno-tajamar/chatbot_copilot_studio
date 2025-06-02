@@ -53,8 +53,8 @@ El bot puede responder preguntas relacionadas con el contenido de la web corpora
 
 ## 🚀 Prueba el Chatbot
 
-Puedes probar el asistente directamente en nuestra web desde este enlace:
+Puedes probar el asistente directamente abriendo en tu navegador el archivo `chat.html`:
 
-👉 [Probar el asistente](https://tusitio.com/chatbot-kai)
+👉 [Pincha aquí para ir al archivo](web/chat.html)
 
 ---
